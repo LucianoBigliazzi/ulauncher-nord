@@ -15,7 +15,7 @@ mkdir -p ~/.config/ulauncher/user-themes
 
 ```
 git clone https://github.com/LucianoBigliazzi/ulauncher-nord.git \
-~/.config/ulauncher/user-themes/WhiteSur-Light-ulauncher
+~/.config/ulauncher/user-themes/ulauncher-nord
 ```
 
 ## Preview
