@@ -1,6 +1,6 @@
-# ulauncher-zorinBlueDark
+# ulauncher-Nord
 
-A ZorinOS Blue Dark theme for Ulauncher
+A Nord theme for Ulauncher
 
 ### Installing
 
@@ -12,4 +12,4 @@ git clone https://github.com/LucianoBigliazzi/ulauncher-nord.git
 
 ### Preview
 
-![A preview of the launcher](screenshot.png)
+![Launcher preview: ](screenshot.png)
