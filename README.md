@@ -3,7 +3,7 @@
 Ulauncher theme based on Nord color palette.
 Reference: https://www.nordtheme.com/
 
-### Installing
+### Installation
 
 To install this theme, create ulauncher themes directory if not present:
 
@@ -20,4 +20,4 @@ git clone https://github.com/LucianoBigliazzi/ulauncher-nord.git \
 
 ### Preview
 
-![Launcher preview: ](screenshot.png)
+![Launcher preview](screenshot.png)
