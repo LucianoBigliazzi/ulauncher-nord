@@ -1,4 +1,4 @@
-# Ulauncher Nord
+# [Ulauncher](https://ulauncher.io) Nord
 
 Ulauncher theme based on Nord color palette.
 Reference: https://www.nordtheme.com/
