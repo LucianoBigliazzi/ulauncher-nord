@@ -7,8 +7,7 @@ A ZorinOS Blue Dark theme for Ulauncher
 To install this theme, just copy paste the command below in your terminal:
 
 ```
-git clone https://github.com/NayamAmarshe/ulauncher-zorinBlueDark/ \
-  ~/.config/ulauncher/user-themes/zorin-blue-dark
+git clone ...
 ```
 
 ###### OR
@@ -19,4 +18,4 @@ and extract the `ulauncher-zorinBlueDark-main` folder to `/home/YourUsername/.co
 
 ### Preview
 
-![A preview of the launcher](screenshot.jpg)
+![A preview of the launcher](screenshot.png)
