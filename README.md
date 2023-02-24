@@ -1,6 +1,7 @@
-# ulauncher-Nord
+# Ulauncher: a custom Nord Theme
 
-A Nord theme for Ulauncher
+Ulauncher theme based on Nord color palette.
+Reference: https://www.nordtheme.com/
 
 ### Installing
 
